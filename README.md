@@ -11,10 +11,6 @@ Soooo hey hey :) this is the President - I coded all of this from scratch. woot 
 
 <a> tags are usually for links and can sandwich in anything you want a link with. #LetsGetThisBread
 
-*Example*
-<a href = "blah.com">
-<img src = "whatever.png" alt = "just an example">
-</a>
 
 In this example, a href means it links your image "img" to blah.com. alt text is used to describe our picture. Remember, <img> doesn't need a closing tag!!!
 
